@@ -1,0 +1,30 @@
+body, html {
+  background: url(https://cdn1.vectorstock.com/i/thumb-large/11/45/rock-paper-scissors-pattern-background-vector-4521145.jpg);
+  background-repeat: repeat;
+  background-size: auto;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  opacity: 0.9
+}
+
+img:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+
+title {
+  text-align: center;
+  text-decoration: underline;
+  text-transform: uppercase;
+}
+
+div {
+  background-color: rgb(192,192,192);
+  text-align: center;
+  size: 200%;
+
+}
